@@ -1,0 +1,991 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "AfLeUgNzah_XSmRFtHT_7rkvlORwx4DAgzfgyrONFedk0a9T8RcrsjoYvPpxKrPrEjsYso4udOeKz9c2slvdIiQlZqVjTiaw9TNrAxe1NTiZhX2Bw61Rbl62edsuK1wSuBXnlriaPzrHWStw9jB_N3DmmWhuHzBuQZAK0ua-bCRPy-XRXWKZViTdQizctNagmRK8B1nHv6u8X0t82AR0orAytzNYQyPtkx0YUgVqGdn9WCQlpolpIpmU_lui2q8PDPw4W0mvsnLxcLdU7LAWU_MGoTTcpsorFIQ8ST0SlfUEE37DOPnV69EkMlYhbeJIBFzoFCVNX1ouE3i_TSSzH8aHJJtvhwhtuleb_7tkrEcqV3QlPCCnhqgp1eD1lQPQ-ZW_8EK55QYps6qqGwFDO3b2PEZs9whyAWKdupnl5sEzWK5m_FWfbUiKZh5dqSUA",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.128682,
+          "lng" : -117.305711
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1301565802915,
+            "lng" : -117.3044542697085
+          },
+          "southwest" : {
+            "lat" : 33.1274586197085,
+            "lng" : -117.3071522302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/golf-71.png",
+      "icon_background_color" : "#13B5C7",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/golf_pinlet",
+      "name" : "The Crossings at Carlsbad",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1613,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118049614913764253263\"\u003eEarl Wells\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNv4UcKyvJDu6FKWDw_3KU3oIVAnXHrXnO_LhgXiiriU0zPol6hdFLv2l5mzaDAy8V4XHFAX57IfdWxxaFNO8ZxcZCVxUHOENBVI0p3dCowWtae_MdU4ed4O2Bf_C22VQMjCNP9XcjSbCAnLmvFXrRGY3S4eemIURWeuKbQslR9cef9",
+          "width" : 2584
+        }
+      ],
+      "place_id" : "ChIJ_0ex7BFz3IARGsbKmcEmMYA",
+      "plus_code" : {
+        "compound_code" : "4MHV+FP Carlsbad, CA, USA",
+        "global_code" : "85544MHV+FP"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ_0ex7BFz3IARGsbKmcEmMYA",
+      "scope" : "GOOGLE",
+      "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 765,
+      "vicinity" : "5800 The Crossings Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.134996,
+          "lng" : -117.2871634
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1363711302915,
+            "lng" : -117.2859742197085
+          },
+          "southwest" : {
+            "lat" : 33.1336731697085,
+            "lng" : -117.2886721802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "J BOX",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112792759444568871268\"\u003eRobert Rael\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgMVkkkyVR2i4LtmFpB2HaVFjZ5xET8jhwoqpT6O5_yo4Y3UFayYv5XYc7iUKqznsUfgAVNp7B2dMVIkbVLaB7IQLLHhIwVHC9aqj6vMXAZSBdiWprRjpQLf1j6hYRKVo59V0BxRGRMxXLBgCp9NS_NcG_KVRBQitBMTHmTKuifMuqc7",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ2y-AVHJz3IARtPOWc1OcNl0",
+      "plus_code" : {
+        "compound_code" : "4PM7+X4 Carlsbad, CA, USA",
+        "global_code" : "85544PM7+X4"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJ2y-AVHJz3IARtPOWc1OcNl0",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 58,
+      "vicinity" : "5814 Van Allen Way Ste135, Carlsbad"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.17928679999999,
+          "lng" : -117.2950897
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.18060198029149,
+            "lng" : -117.2939391197085
+          },
+          "southwest" : {
+            "lat" : 33.17790401970849,
+            "lng" : -117.2966370802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Subway",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102084542345981907576\"\u003eSTEVEN B\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgMaB1LXnvwGFIH7o2Vv9I1g7o2TA-h0hY0pH34-IsdOIfQLMv0V7k-xIrTUOBSG-BJCo5CMWzv3k51n1j-3pMs7knfVVmXUavzXMqvzA6g6PVpV1aQfFn6SV5X1aGIr3Y6HZy0pIlX4H_Vye0FmpMy8V0seU4zGc9JtD9Bvm5qWJjXe",
+          "width" : 3019
+        }
+      ],
+      "place_id" : "ChIJ14pmnd5z3IARgRr5fhdJCtw",
+      "plus_code" : {
+        "compound_code" : "5PH3+PX Oceanside, CA, USA",
+        "global_code" : "85545PH3+PX"
+      },
+      "price_level" : 1,
+      "rating" : 3.9,
+      "reference" : "ChIJ14pmnd5z3IARgRr5fhdJCtw",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 52,
+      "vicinity" : "3480 Marron Road Suite 3B-102, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.17804599999999,
+          "lng" : -117.294778
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.17941248029149,
+            "lng" : -117.2933478197085
+          },
+          "southwest" : {
+            "lat" : 33.17671451970849,
+            "lng" : -117.2960457802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Chick-fil-A",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 428,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104530611075708056523\"\u003eTony Dalonzo\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNFD7qgr0f9vqrErxArZ5foKXbLWrh3FtpYcXWyUNjdHofbGnyrDpQwYLJIvtxgGG-SZtuJEgqQ3cQ_0HKjzXexfWLHUCFSNYYsG1_a0cZfvEF9zMNdPWhI3q7WJGXDAF1nXkgwH86NbNWaZdyexDgrRYrbkS-SbMPpmqDjqOJMtaVb",
+          "width" : 827
+        }
+      ],
+      "place_id" : "ChIJ93l7Jdxz3IAR458qYFcvObY",
+      "plus_code" : {
+        "compound_code" : "5PH4+63 Oceanside, CA, USA",
+        "global_code" : "85545PH4+63"
+      },
+      "price_level" : 1,
+      "rating" : 4.6,
+      "reference" : "ChIJ93l7Jdxz3IAR458qYFcvObY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2802,
+      "vicinity" : "3475 Marron Road, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1817744,
+          "lng" : -117.294799
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.18307568029149,
+            "lng" : -117.2935050197085
+          },
+          "southwest" : {
+            "lat" : 33.1803777197085,
+            "lng" : -117.2962029802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name" : "Starbucks",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106122192875842363727\"\u003eJoey Babcock\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNLbo9ARGxvkuMfdd3DBbEQLq8B6iUv4BxKwneXMMnAAesqrAb7p4AzQOX-p808DmzDdVSkFjmdSZ2W3nzfzKkinAXQa-h-8o7pRuWGGCGhQ0fXimTD_xAas_qfYCkCtdWUBOTQ3mnaNZqVrbFlcJU3WaA9s4ZGPwbJZN1Kq44urDeL",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJSdI7EN9z3IAR3sdjNKev3W8",
+      "plus_code" : {
+        "compound_code" : "5PJ4+P3 Oceanside, CA, USA",
+        "global_code" : "85545PJ4+P3"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJSdI7EN9z3IAR3sdjNKev3W8",
+      "scope" : "GOOGLE",
+      "types" : [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 528,
+      "vicinity" : "3702 Plaza Drive, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.177073,
+          "lng" : -117.297741
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.17819448029149,
+            "lng" : -117.2960327197085
+          },
+          "southwest" : {
+            "lat" : 33.1754965197085,
+            "lng" : -117.2987306802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Burger King",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 837,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100962080387157826131\"\u003eAndrew Jones\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgPpNyGWP1MtSd-FCIEQOEEyCSqPsaqcWFaPQSFSU-wqg4WsGTS8iittWn70p0Zt8sU4t29hLDVukQDLdXIdHSUF1MDSTxHejv5EMvD2QKBnJEcvl8JarJCM2c_8d_3VIw_-Vw_EyvJWsw_y6g2Idk07SV2JoTENZqa1CYoMfCI1Jflw",
+          "width" : 1488
+        }
+      ],
+      "place_id" : "ChIJ2wDg79tz3IARacnnLQJMiyw",
+      "plus_code" : {
+        "compound_code" : "5PG2+RW Oceanside, CA, USA",
+        "global_code" : "85545PG2+RW"
+      },
+      "price_level" : 1,
+      "rating" : 3.6,
+      "reference" : "ChIJ2wDg79tz3IARacnnLQJMiyw",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 139,
+      "vicinity" : "3405 Marron Road, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1353708,
+          "lng" : -117.2870774
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.13653838029149,
+            "lng" : -117.2855428197085
+          },
+          "southwest" : {
+            "lat" : 33.1338404197085,
+            "lng" : -117.2882407802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "AVO Café (All Vegan Organic)",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113245245008305644848\"\u003eAVO Café (All Vegan Organic)\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgMza3xXLjTTQ0V4bKsb1AbYT5RMRs0gL0Pnv9hXBHoh-AHhuhYyHckfdnAcNZbH--xohUsCTHTZ-U_AYAtQZfqQtBP71-IuQwqYbRAEtiY_DibHWaVQvbiKYM7SUlHqAY4D5_6dy8d6ef2BjwCA6ARx3sLVnC2Pn8nbu_S_T-q-BU9o",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJpQ4LUdK6woAR_Y8GNv_rgYQ",
+      "plus_code" : {
+        "compound_code" : "4PP7+45 Carlsbad, CA, USA",
+        "global_code" : "85544PP7+45"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJpQ4LUdK6woAR_Y8GNv_rgYQ",
+      "scope" : "GOOGLE",
+      "types" : [
+        "bakery",
+        "cafe",
+        "restaurant",
+        "food",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 79,
+      "vicinity" : "5808 Van Allen Way #115, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1352339,
+          "lng" : -117.2872647
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1364054302915,
+            "lng" : -117.2857239197085
+          },
+          "southwest" : {
+            "lat" : 33.1337074697085,
+            "lng" : -117.2884218802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Punjabi Tandoor",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108714320803076461615\"\u003eVinh Pham\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNmY-ir61iu-5J85nLguRWuNxTMkYdqdumugzDvRClmhO4mOgzfXdhgJEsds0k_Ipov3Sob1UJ-dghitdjXxRVE-5d7_FKUHxus3w8UHliYk3y29dtLzfPZE0tjqAH9CyeXHt6yNU56zpNNbS6e7QDwjyFLP_ehz0LuDKnJePz5nuB8",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJ3aABWHJz3IAR6zqnj-v1PG0",
+      "plus_code" : {
+        "compound_code" : "4PP7+33 Carlsbad, CA, USA",
+        "global_code" : "85544PP7+33"
+      },
+      "price_level" : 1,
+      "rating" : 4.2,
+      "reference" : "ChIJ3aABWHJz3IAR6zqnj-v1PG0",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 527,
+      "vicinity" : "5812 Van Allen Way # 120, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1305981,
+          "lng" : -117.3093707
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1318849802915,
+            "lng" : -117.3080858697085
+          },
+          "southwest" : {
+            "lat" : 33.1291870197085,
+            "lng" : -117.3107838302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "20|Twenty",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3913,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114313481447848654036\"\u003e20|Twenty\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgMwAfV-3e6ZK80XqQlseZgQGrvhq5H9sVTiyBqCCKZlBHaMusuWX8L6Nx0ohqFuOxE4XWp7hYzknYKFGYeW50Sfwn-2rhq3eYTnTVUYr_VKxfmh1uaoK12SLIt2PVYTc6-N8Akk0eqHd0mpzciiqBoB1rrM8xLVa9vtmFmY__if7kC1",
+          "width" : 5862
+        }
+      ],
+      "place_id" : "ChIJNydyYwNz3IARrowNespBECE",
+      "plus_code" : {
+        "compound_code" : "4MJR+67 Carlsbad, CA, USA",
+        "global_code" : "85544MJR+67"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJNydyYwNz3IARrowNespBECE",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 284,
+      "vicinity" : "5480 Grand Pacific Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1521768,
+          "lng" : -117.3346385
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1535543302915,
+            "lng" : -117.3332981197085
+          },
+          "southwest" : {
+            "lat" : 33.1508563697085,
+            "lng" : -117.3359960802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Leucadia Pizza Kitchen",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117021451993082472286\"\u003eLeucadia Pizza Kitchen\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgO7h9OofYOH-vsy4SiVQkxJ90DbYSxDxmgGZ4uldIc7iXbOVOdu0QfR21jrVGruR2jHVHpf4xSlUcONu5J8stqO1s1366-s9KnhAPBDGO_X4gAf6PQzZj8GvcI_Y5pumy5CoydQiZAp1-ANxxYNUjc1ofQp-qp53QBUy2gNarsmyYyu",
+          "width" : 5184
+        }
+      ],
+      "place_id" : "ChIJRVXV8kBy3IARMQlSOotRBz8",
+      "plus_code" : {
+        "compound_code" : "5M28+V4 Carlsbad, CA, USA",
+        "global_code" : "85545M28+V4"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJRVXV8kBy3IARMQlSOotRBz8",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 193,
+      "vicinity" : "959 Tamarack Avenue, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1291793,
+          "lng" : -117.3112258
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1305039302915,
+            "lng" : -117.3098539197085
+          },
+          "southwest" : {
+            "lat" : 33.1278059697085,
+            "lng" : -117.3125518802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Granny's Apple Fries",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115994033018013126196\"\u003eYale W\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgOXIt_Vo28p_ZOdb-BLZXJUYtUmojzwwxmZeDYy-K_DqUwUnGuPJGfg6SSzuT3sEK2HSWV5KP_2U-inpqX393YEOygZ4Ay88CvUsGuFLV6_KxRCoyMNl3oZZoI9J6bvYBuwgW_cSYvlz6v5LHhG_8CUUt_Ra6c5bQRsFiJNJMQg4ayO",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJf52WGANz3IARPAnCt6_Rij0",
+      "plus_code" : {
+        "compound_code" : "4MHQ+MG Carlsbad, CA, USA",
+        "global_code" : "85544MHQ+MG"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJf52WGANz3IARPAnCt6_Rij0",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 87,
+      "vicinity" : "The Hideaways, 1 Legoland Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1287456,
+          "lng" : -117.305756
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1301917802915,
+            "lng" : -117.3044710697085
+          },
+          "southwest" : {
+            "lat" : 33.1274938197085,
+            "lng" : -117.3071690302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Canyons Restaurant at The Crossings at Carlsbad",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1576,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102896053294547256543\"\u003eCanyons Restaurant at The Crossings at Carlsbad\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgN4sqd8bs_kNx_WB9dvju03QRz8xiLqnFcGY26U_6DjmnW96f3zoTwOap5HiK8CvrP2pPWW15EjnlTe-ItJj9b4VtH5pL63UU2BQE0XOklcP3CogffBOV3nm6Ge-1fuiVQ5aYQemK58tgUr7yhiJ1jdxjGO7G1apiIQYYQv_HssAeEq",
+          "width" : 1149
+        }
+      ],
+      "place_id" : "ChIJ1cdG1hpz3IARc-NbtQGq7zc",
+      "plus_code" : {
+        "compound_code" : "4MHV+FM Carlsbad, CA, USA",
+        "global_code" : "85544MHV+FM"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJ1cdG1hpz3IARc-NbtQGq7zc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 360,
+      "vicinity" : "5800 The Crossings Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1286564,
+          "lng" : -117.310146
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1300415802915,
+            "lng" : -117.3088295697085
+          },
+          "southwest" : {
+            "lat" : 33.1273436197085,
+            "lng" : -117.3115275302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Castle Burgers",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103145002697537020146\"\u003eKirk M\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgPUKLAvFh7CcDJWVGo6E3Kt21fsshlIQI5vBGcoBWI2xHtwhqVZ54rUFXS5Qkca5CIBcna9lzjERx4ctpmApYR4zXkItRel9hPpJvEfJQuOITaheqj8_13RsT1ZzmvzRxw14OWuzMUiCkZvLFs-pBE9-O8M9rUD6DbbZYZqcI8QLq6L",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJOSxrSANz3IARBwdem8jhov4",
+      "plus_code" : {
+        "compound_code" : "4MHQ+FW Carlsbad, CA, USA",
+        "global_code" : "85544MHQ+FW"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJOSxrSANz3IARBwdem8jhov4",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "The Hideaways, 1 Legoland Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.17936099999999,
+          "lng" : -117.2951879
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1806739302915,
+            "lng" : -117.2939993697085
+          },
+          "southwest" : {
+            "lat" : 33.1779759697085,
+            "lng" : -117.2966973302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Poki Poki - Oceanside # 1",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2902,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102084542345981907576\"\u003eSTEVEN B\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNYQGciIRGwYMRf5YY7KWTT9GypJ2OzrRArS6hC0AKlgCNdlgOUp4d8NHZgoanQAyOQbpFp3-aLppRwOKlPykRp5w4qg3Rz8htnArVLYUMM8gPy1A6KFe6SJ-MYHXDRrOONFitHZ4O8jZCQNpmbyEk-o4L_8nIqFLb1-c3ItZjdsaND",
+          "width" : 3189
+        }
+      ],
+      "place_id" : "ChIJGW4vkd5z3IAROtpjaLGLlFs",
+      "plus_code" : {
+        "compound_code" : "5PH3+PW Oceanside, CA, USA",
+        "global_code" : "85545PH3+PW"
+      },
+      "price_level" : 1,
+      "rating" : 4.5,
+      "reference" : "ChIJGW4vkd5z3IAROtpjaLGLlFs",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 265,
+      "vicinity" : "#3B-101, 3480 Marron Road, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.18161480000001,
+          "lng" : -117.2957221
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1830924802915,
+            "lng" : -117.2943384697085
+          },
+          "southwest" : {
+            "lat" : 33.1803945197085,
+            "lng" : -117.2970364302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Wendy's",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108729855531572440871\"\u003eAlexandro Julián\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgMBjXTmWU322w-dUywIURIixK0cqBTxmEmqPWmq367ZXRtvK2HImLBBEQ6q7CugIc7hbjMsiHi_pjd4WZQ9_vqqGNi8XKcIT9mD70pCeOx5PH642nfQgI2gm4tTSmuddegacd67BLRyhX7JwoT3yfp4oElXbSn0lqVwc3FwLRNuueFh",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJAxrmPt9z3IARYeLHA7mMvn8",
+      "plus_code" : {
+        "compound_code" : "5PJ3+JP Oceanside, CA, USA",
+        "global_code" : "85545PJ3+JP"
+      },
+      "price_level" : 1,
+      "rating" : 4,
+      "reference" : "ChIJAxrmPt9z3IARYeLHA7mMvn8",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 508,
+      "vicinity" : "3705 Plaza Drive, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1781842,
+          "lng" : -117.2981013
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1795711302915,
+            "lng" : -117.2961068197085
+          },
+          "southwest" : {
+            "lat" : 33.1768731697085,
+            "lng" : -117.2988047802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Round Table Pizza",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2918,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102106617906117817899\"\u003eMark Loftin\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgPPjQ2U2FN994_SOeZy32nNJC3iaHAdh9Q0KKrPet9Jv4FpHl4t9iEmQJCeNpdz6iRpsH_Ax8JZ-D1AKuoC0NVJaC_ahYWstCgxdW-m72T6cibLRRC73Gh5riQzmh4kDG4E-Q545Sv52jmvIB1_yh0ngQhla9lpSJwxrvRlUOmMqjSb",
+          "width" : 2831
+        }
+      ],
+      "place_id" : "ChIJFV4vq95z3IARWmnSZ8CQhiE",
+      "plus_code" : {
+        "compound_code" : "5PH2+7Q Oceanside, CA, USA",
+        "global_code" : "85545PH2+7Q"
+      },
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "ChIJFV4vq95z3IARWmnSZ8CQhiE",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 450,
+      "vicinity" : "3440 Marron Road, Oceanside"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1284958,
+          "lng" : -117.3119261
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.12988630000002,
+            "lng" : -117.3105182697085
+          },
+          "southwest" : {
+            "lat" : 33.12446669999999,
+            "lng" : -117.3132162302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Garden Restaurant",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109725951874843752404\"\u003eEd SaNtOs\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgM1eeqPWo6g_wHMqRQ1jweOJ0-jYJtjT-QdN6DkEgbTPCXI67Uo59aHe4jvG6IF3_dnywkflHSJnPnOImlAOxLCvBnkMtzsxJ0GNXhtEsQc_wG_-D_W7nxh1VTVPnsP1-FPNiVEnurgdgIOGcWSiJAN7w9-VD4UHMHHjfAAg57_zCqg",
+          "width" : 3465
+        }
+      ],
+      "place_id" : "ChIJtawT2QJz3IARjPRO_CKXMOg",
+      "plus_code" : {
+        "compound_code" : "4MHQ+96 Carlsbad, CA, USA",
+        "global_code" : "85544MHQ+96"
+      },
+      "rating" : 3.1,
+      "reference" : "ChIJtawT2QJz3IARjPRO_CKXMOg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 25,
+      "vicinity" : "1 Legoland Drive, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1353431,
+          "lng" : -117.2813892
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.1363432302915,
+            "lng" : -117.2799029197085
+          },
+          "southwest" : {
+            "lat" : 33.1336452697085,
+            "lng" : -117.2826008802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Rubio's Corporate Office",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1600,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116494161357850731539\"\u003eRubio&#39;s Corporate Office\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgP_zyjrAkD-eRys3ThG_RK3j5PNEOleOYcjGmcWLTo7o_u3Qna6c6JQGR83-tHbFyjv0Thboft-i2OOE_XbUrSqeMJ1rIzrcTpNmq4M7nCQeIrisRZgrq129rqPO3_gRED00_XOIaB1xVjKx5UkO-Y5hO8l6r46o4HKK5WteM3p-kNm",
+          "width" : 1066
+        }
+      ],
+      "place_id" : "ChIJt0ZosEFz3IARMKyVgXWegrE",
+      "plus_code" : {
+        "compound_code" : "4PP9+4C Carlsbad, CA, USA",
+        "global_code" : "85544PP9+4C"
+      },
+      "price_level" : 1,
+      "rating" : 2.8,
+      "reference" : "ChIJt0ZosEFz3IARMKyVgXWegrE",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 25,
+      "vicinity" : "2200 Faraday Avenue, Carlsbad"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1350596,
+          "lng" : -117.2872834
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.13642293029149,
+            "lng" : -117.2860295697085
+          },
+          "southwest" : {
+            "lat" : 33.1337249697085,
+            "lng" : -117.2887275302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Allen's New York Pizza",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1836,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118302168181680210503\"\u003eDavid Avalos\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgNgzMZUwNcW6N6iTb2I40l70cmH6v7xuDTIUaO-F1xDNzniqWq_Ewmp2a5mf85Gzad1imWnKVArFY6OApQ10MYiJBsgjp4XRJ382Cv6KMyH1XJu360ukq0rGbvPE6UzKhGxoS1Pcz4ESxkCYZk4yJfJSbxhH3qSoX9x3j6UuJ8KQ5rg",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJQaRMhVUL3IARG6_Bov5Mf0s",
+      "plus_code" : {
+        "compound_code" : "4PP7+23 Carlsbad, CA, USA",
+        "global_code" : "85544PP7+23"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJQaRMhVUL3IARG6_Bov5Mf0s",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 98,
+      "vicinity" : "5812 Van Allen Way #130, Carlsbad"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 33.1273532,
+          "lng" : -117.3109159
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 33.12814465,
+            "lng" : -117.3102411
+          },
+          "southwest" : {
+            "lat" : 33.12497885,
+            "lng" : -117.3129403
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color" : "#FF9E67",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name" : "Pizza Mania",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112386617521129956221\"\u003eJen Doyle\u003c/a\u003e"
+          ],
+          "photo_reference" : "AfLeUgOng0MRuHbxBGDdFcsWQKsbaBg3bPQuy-tuYYMBVIyK09aP-Y-h8oImRdMbv-j5tBjVm2ab8u_NGwa224iQKC3nM2gKKeeXUb0kvUxuJVyRyKg0F47T5XOZfhI6wYrrbpdG1uYcdD-pmPmFsPea297mjwfmti_9LcmPHvNl3iIZP32c",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJM6upzxxz3IARxRFjAZh4S90",
+      "plus_code" : {
+        "compound_code" : "4MGQ+WJ Carlsbad, CA, USA",
+        "global_code" : "85544MGQ+WJ"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJM6upzxxz3IARxRFjAZh4S90",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 267,
+      "vicinity" : "1 Legoland Drive, Carlsbad"
+    }
+  ],
+  "status" : "OK"
+}

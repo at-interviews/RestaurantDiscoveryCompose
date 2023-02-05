@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Restaurant Discovery Compose</string>
+    <string name="button_list">List</string>
+    <string name="button_map">Map</string>
+    <string name="content_description_address">Address</string>
+    <string name="content_description_alltrails">AllTrails text</string>
+    <string name="content_description_clear">Clear</string>
+    <string name="content_description_hours">Hours of operation</string>
+    <string name="content_description_restaurant_thumbnail">Restaurant thumbnail</string>
+    <string name="content_description_restaurant_image">Restaurant image</string>
+    <string name="content_description_logo">AllTrails logo</string>
+    <string name="content_description_list">List</string>
+    <string name="content_description_map">Map</string>
+    <string name="content_description_no_image">No image</string>
+    <string name="content_description_phone_number">Phone number</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_star">Star</string>
+    <string name="content_description_website">Website</string>
+    <string name="text_all_trails">AllTrails</string>
+    <string name="text_at_lunch">at lunch</string>
+    <string name="text_closed">Closed</string>
+    <string name="text_open">Open</string>
+    <string name="text_search_restaurants">Search restaurants</string>
+    <string name="text_error_loading_details">Unable to load information for selected restaurant</string>
 </resources>
